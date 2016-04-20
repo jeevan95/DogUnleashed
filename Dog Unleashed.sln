@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C7B7814F-4516-27C3-A84F-C56269C27AE9}") = "Dog Unleashed", "Assembly-CSharp.csproj", "{EA225639-CD09-FED6-F1E4-7D5811E84335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA225639-CD09-FED6-F1E4-7D5811E84335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA225639-CD09-FED6-F1E4-7D5811E84335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA225639-CD09-FED6-F1E4-7D5811E84335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA225639-CD09-FED6-F1E4-7D5811E84335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
